@@ -1,0 +1,1148 @@
+{
+	"locale_abbreviation": "en-US",
+	"locale": {"language":"eng","extlang":[],"script":"Latn","region":"US","variant":[],"extension":[],"private_use":null},
+	"data": [
+		{
+			"key": "m",
+			"words": [
+				{
+					"word": "him",
+					"ipa": [
+						[ "hɪ", "m" ]
+					]
+				},
+				{
+					"word": "my",
+					"ipa": [
+						[ "", "m", "aɪ" ]
+					]
+				},
+				{
+					"word": "jam",
+					"ipa": [
+						[ "d͡ʒæ", "m" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "n",
+			"words": [
+				{
+					"word": "nice",
+					"ipa": [
+						[ "", "n", "aɪs" ]
+					]
+				},
+				{
+					"word": "not",
+					"ipa": [
+						[ "", "n", "ɑ̈ʔ(t̚)" ]
+					]
+				},
+				{
+					"word": "ran",
+					"ipa": [
+						[ "ɹæ", "n" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "ŋ",
+			"words": [
+				{
+					"word": "sing",
+					"ipa": [
+						[ "sɪ", "ŋ" ]
+					]
+				},
+				{
+					"word": "finger",
+					"ipa": [
+						[ "ˈfɪ", "ŋ", "ɡəɹ" ]
+					]
+				},
+				{
+					"word": "link",
+					"ipa": [
+						[ "lɪ", "ŋ", "k" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "p",
+			"words": [
+				{
+					"word": "pack",
+					"ipa": [
+						[ "", "p", "ʰæk" ]
+					]
+				},
+				{
+					"word": "pit",
+					"ipa": [
+						[ "", "p", "ɪt" ],
+						[ "", "p", "ʰɪʔt" ]
+					]
+				},
+				{
+					"word": "lip",
+					"ipa": [
+						[ "lɪ", "p" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "b",
+			"words": [
+				{
+					"word": "aback",
+					"ipa": [
+						[ "əˈ", "b", "æk" ]
+					]
+				},
+				{
+					"word": "bit",
+					"ipa": [
+						[ "", "b", "ɪt" ]
+					]
+				},
+				{
+					"word": "tub",
+					"ipa": [
+						[ "tʌ", "b" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "t",
+			"words": [
+				{
+					"word": "tick",
+					"ipa": [
+						[ "", "t", "ʰɪk" ]
+					]
+				},
+				{
+					"word": "tip",
+					"ipa": [
+						[ "", "t", "ɪp" ]
+					]
+				},
+				{
+					"word": "sit",
+					"ipa": [
+						[ "sɪ", "t" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "d",
+			"words": [
+				{
+					"word": "dash",
+					"ipa": [
+						[ "ˈ", "d", "æʃ" ]
+					]
+				},
+				{
+					"word": "dig",
+					"ipa": [
+						[ "", "d", "ɪg" ]
+					]
+				},
+				{
+					"word": "sad",
+					"ipa": [
+						[ "sæ", "d" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "k",
+			"words": [
+				{
+					"word": "kiss",
+					"ipa": [
+						[ "", "k", "ʰɪs" ]
+					]
+				},
+				{
+					"word": "cup",
+					"ipa": [
+						[ "", "k", "ʌp" ]
+					]
+				},
+				{
+					"word": "sky",
+					"ipa": [
+						[ "s", "k", "aɪ" ]
+					]
+				},
+				{
+					"word": "click",
+					"ipa": [
+						[ "", "k", "lɪ", "k" ],
+						[ "", "k", "ʰl̥ɪ", "k" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "ɡ",
+			"words": [
+				{
+					"word": "gaggle",
+					"ipa": [
+						[ "ˈ", "ɡ", "æ", "ɡ", "ɫ̩" ]
+					]
+				},
+				{
+					"word": "guy",
+					"ipa": [
+						[ "", "ɡ", "aɪ" ]
+					]
+				},
+				{
+					"word": "bag",
+					"ipa": [
+						[ "ˈbæ", "ɡ" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "t̠͡ʃ",
+			"words": [
+				{
+					"word": "beach",
+					"ipa": [
+						[ "biː", "t͡ʃ" ],
+						[ "biː", "t͡ʃ", "ʷ" ]
+					]
+				},
+				{
+					"word": "check",
+					"ipa": [
+						[ "", "t͡ʃ", "ɛk" ],
+						[ "", "t͡ʃ", "ʰɛk̚" ]
+					]
+				},
+				{
+					"word": "etch",
+					"ipa": [
+						[ "ɛ", "t͡ʃ" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "d̠͡ʒ",
+			"words": [
+				{
+					"word": "jeans",
+					"ipa": [
+						[ "ˈ", "d͡ʒ", "iːnz" ]
+					]
+				},
+				{
+					"word": "just",
+					"ipa": [
+						[ "", "d͡ʒ", "ʌst" ]
+					]
+				},
+				{
+					"word": "giant",
+					"ipa": [
+						[ "", "d͡ʒ", "aɪ.ənt" ]
+					]
+				},
+				{
+					"word": "judge",
+					"ipa": [
+						[ "", "d͡ʒ", "ʌ", "d͡ʒ" ]
+					]
+				},
+				{
+					"word": "age",
+					"ipa": [
+						[ "eɪ", "d͡ʒ" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "f",
+			"words": [
+				{
+					"word": "fill",
+					"ipa": [
+						[ "", "f", "ɪɫ" ]
+					]
+				},
+				{
+					"word": "fish",
+					"ipa": [
+						[ "", "f", "ɪʃ" ]
+					]
+				},
+				{
+					"word": "cuff",
+					"ipa": [
+						[ "kʌ", "f" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "v",
+			"words": [
+				{
+					"word": "valve",
+					"ipa": [
+						[ "", "v", "æɫ", "v" ]
+					]
+				},
+				{
+					"word": "vowel",
+					"ipa": [
+						[ "ˈ", "v", "aʊ.əl" ],
+						[ "", "v", "aʊl" ]
+					]
+				},
+				{
+					"word": "leave",
+					"ipa": [
+						[ "liː", "v" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "θ",
+			"words": [
+				{
+					"word": "thin",
+					"ipa": [
+						[ "", "θ", "ɪn" ]
+					]
+				},
+				{
+					"word": "thigh",
+					"ipa": [
+						[ "", "θ", "aɪ" ]
+					]
+				},
+				{
+					"word": "breath",
+					"ipa": [
+						[ "bɹɛ", "θ" ],
+						[ "bɹ̠ʷɛ", "θ" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "ð",
+			"words": [
+				{
+					"word": "this",
+					"ipa": [
+						[ "", "ð", "ɪs" ]
+					]
+				},
+				{
+					"word": "thy",
+					"ipa": [
+						[ "", "ð", "aɪ" ]
+					]
+				},
+				{
+					"word": "father",
+					"ipa": [
+						[ "ˈfɑ", "ð", "ɚ" ]
+					]
+				},
+				{
+					"word": "breathe",
+					"ipa": [
+						[ "bɹi", "ð" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "s",
+			"words": [
+				{
+					"word": "sit",
+					"ipa": [
+						[ "", "s", "ɪʔtʰ" ]
+					]
+				},
+				{
+					"word": "sip",
+					"ipa": [
+						[ "", "s", "ɪp" ]
+					]
+				},
+				{
+					"word": "mass",
+					"ipa": [
+						[ "mæ", "s" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "z",
+			"words": [
+				{
+					"word": "zoo",
+					"ipa": [
+						[ "", "z", "uː" ]
+					]
+				},
+				{
+					"word": "zip",
+					"ipa": [
+						[ "", "z", "ɪp" ]
+					]
+				},
+				{
+					"word": "jazz",
+					"ipa": [
+						[ "d͡ʒæ", "z" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "ʃ",
+			"words": [
+				{
+					"word": "sheep",
+					"ipa": [
+						[ "ˈ", "ʃ", "iːp" ]
+					]
+				},
+				{
+					"word": "shop",
+					"ipa": [
+						[ "", "ʃ", "ɑp" ]
+					]
+				},
+				{
+					"word": "wish",
+					"ipa": [
+						[ "wɪ", "ʃ" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "ʒ",
+			"words": [
+				{
+					"word": "vision",
+					"ipa": [
+						[ "ˈvɪ", "ʒ", "ən" ]
+					]
+				},
+				{
+					"word": "genre",
+					"ipa": [
+						[ "ˈ(d)", "ʒ", "ɑnɹə" ]
+					]
+				},
+				{
+					"word": "pleasure",
+					"ipa": [
+						[ "ˈplɛ", "ʒ", "ɚ" ]
+					]
+				},
+				{
+					"word": "beige",
+					"ipa": [
+						[ "ˈbeɪ", "ʒ" ],
+						[ "ˈbeɪd͡", "ʒ" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "h",
+			"words": [
+				{
+					"word": "high",
+					"ipa": [
+						[ "", "h", "aɪ̯" ]
+					]
+				},
+				{
+					"word": "house",
+					"ipa": [
+						[ "", "h", "aʊs" ]
+					]
+				},
+				{
+					"word": "ahead",
+					"ipa": [
+						[ "əˈ", "h", "ɛd" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "l",
+			"words": [
+				{
+					"word": "let",
+					"ipa": [
+						[ "", "l", "ɛt" ]
+					]
+				},
+				{
+					"word": "lap",
+					"ipa": [
+						[ "", "l", "æp" ]
+					]
+				},
+				{
+					"word": "pull",
+					"ipa": [
+						[ "pʊ", "l" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "ɹ̠",
+			"words": [
+				{
+					"word": "red",
+					"ipa": [
+						[ "", "ɹ̠", "ʷɛd" ]
+					]
+				},
+				{
+					"word": "rip",
+					"ipa": [
+						[ "", "ɹ", "ɪp" ]
+					]
+				},
+				{
+					"word": "water",
+					"ipa": [
+						[ "ˈwɔ.tə", "ɹ" ],
+						[ "ˈwɔ.ɾ", "ɚ" ],
+						[ "ˈwɑ.tə", "ɹ" ],
+						[ "ˈwɑ.ɾ", "ɚ" ]
+					]
+				},
+				{
+					"word": "write",
+					"ipa": [
+						[ "", "ɹ", "ɐɪt" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "j",
+			"words": [
+				{
+					"word": "you",
+					"ipa": [
+						[ "", "j", "uː" ]
+					]
+				},
+				{
+					"word": "yes",
+					"ipa": [
+						[ "", "j", "ɛs" ]
+					]
+				},
+				{
+					"word": "young",
+					"ipa": [
+						[ "", "j", "ʌŋ" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "w",
+			"words": [
+				{
+					"word": "weep",
+					"ipa": [
+						[ "", "w", "iːp" ]
+					]
+				},
+				{
+					"word": "wit",
+					"ipa": [
+						[ "", "w", "ɪt" ]
+					]
+				},
+				{
+					"word": "swap",
+					"ipa": [
+						[ "s", "w", "ɑp" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "ɪ",
+			"words": [
+				{
+					"word": "bit",
+					"ipa": [
+						[ "b", "ɪ̞", "t" ]
+					]
+				},
+				{
+					"word": "sit",
+					"ipa": [
+						[ "s", "ɪ", "t" ]
+					]
+				},
+				{
+					"word": "gym",
+					"ipa": [
+						[ "d͡ʒ", "ɪ", "m" ]
+					]
+				},
+				{
+					"word": "buy",
+					"comment_inline": "/aɪ/",
+					"ipa": [
+						[ "ba", "ɪ" ]
+					]
+				},
+				{
+					"word": "aisle",
+					"comment_inline": "/aɪ/",
+					"ipa": [
+						[ "a", "ɪ̯", "l" ]
+					]
+				},
+				{
+					"word": "isle",
+					"comment_inline": "/aɪ/",
+					"ipa": [
+						[ "a", "ɪ̯", "l" ]
+					]
+				},
+				{
+					"word": "may",
+					"comment_inline": "/eɪ/",
+					"ipa": [
+						[ "me", "ɪ" ]
+					]
+				},
+				{
+					"word": "late",
+					"comment_inline": "/eɪ/",
+					"ipa": [
+						[ "le", "ɪ", "t" ]
+					]
+				},
+				{
+					"word": "break",
+					"comment_inline": "/eɪ/",
+					"ipa": [
+						[ "bɹe", "ɪ", "k" ],
+						[ "bɹ(ʷ)e", "ɪ̯", "k" ]
+					]
+				},
+				{
+					"word": "say",
+					"comment_inline": "/eɪ/",
+					"ipa": [
+						[ "se", "ɪ" ]
+					]
+				},
+				{
+					"word": "soil",
+					"comment_inline": "/ɔɪ/",
+					"ipa": [
+						[ "sɔ", "ɪ", "l" ]
+					]
+				},
+				{
+					"word": "boy",
+					"comment_inline": "/ɔɪ/",
+					"ipa": [
+						[ "bɔ", "ɪ" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "i",
+			"words": [
+				{
+					"word": "free",
+					"ipa": [
+						[ "fɹ̠", "i", "ː" ]
+					]
+				},
+				{
+					"word": "feet",
+					"ipa": [
+						[ "f", "i", "ːt" ]
+					]
+				},
+				{
+					"word": "seat",
+					"ipa": [
+						[ "s", "i", "ːt" ]
+					]
+				},
+				{
+					"word": "me",
+					"ipa": [
+						[ "m", "i" ]
+					]
+				},
+				{
+					"word": "happy",
+					"ipa": [
+						[ "ˈhæp.", "i" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "ʊ",
+			"words": [
+				{
+					"word": "hook",
+					"ipa": [
+						[ "h", "ʊ̞", "k" ]
+					]
+				},
+				{
+					"word": "foot",
+					"ipa": [
+						[ "f", "ʊ", "t̚" ]
+					]
+				},
+				{
+					"word": "took",
+					"ipa": [
+						[ "t", "ʊ", "k" ]
+					]
+				},
+				{
+					"word": "Cambodia",
+					"comment_inline": "/oʊ/",
+					"ipa": [
+						[ "kʰɛəmˈbö̞", "ʊ", "diə" ]
+					]
+				},
+				{
+					"word": "boat",
+					"comment_inline": "/oʊ/",
+					"ipa": [
+						[ "bo", "ʊ", "t" ]
+					]
+				},
+				{
+					"word": "owe",
+					"comment_inline": "/oʊ/",
+					"ipa": [
+						[ "o", "ʊ" ]
+					]
+				},
+				{
+					"word": "no",
+					"comment_inline": "/oʊ/",
+					"ipa": [
+						[ "no", "ʊ" ]
+					]
+				},
+				{
+					"word": "cow",
+					"comment_inline": "/aʊ/",
+					"ipa": [
+						[ "ka", "ʊ" ]
+					]
+				},
+				{
+					"word": "mouth",
+					"comment_inline": "/aʊ/",
+					"ipa": [
+						[ "ma", "ʊ", "θ" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "ʉ",
+			"words": [
+				{
+					"word": "goose",
+					"ipa": [
+						[ "ɡ", "ʉ", "s" ],
+						[ "ɡ", "u", "s" ]
+					]
+				},
+				{
+					"word": "rude",
+					"ipa": [
+						[ "ɹ", "u", "d" ]
+					]
+				},
+				{
+					"word": "cruel",
+					"ipa": [
+						[ "ˈkɹ", "u", "ːəl" ],
+						[ "kɹ", "u", "ːl" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "ɛ",
+			"words": [
+				{
+					"word": "bed",
+					"ipa": [
+						[ "b", "ɛ", "d" ]
+					]
+				},
+				{
+					"word": "let",
+					"ipa": [
+						[ "l", "ɛ", "t" ]
+					]
+				},
+				{
+					"word": "best",
+					"ipa": [
+						[ "ˈb", "ɛ", "st" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "e",
+			"words": [
+				{
+					"word": "may",
+					"comment_inline": "/eɪ/",
+					"ipa": [
+						[ "m", "e", "ː" ],
+						[ "m", "e", "ɪ" ]
+					]
+				},
+				{
+					"word": "late",
+					"comment_inline": "/eɪ/",
+					"ipa": [
+						[ "l", "e", "ɪt" ]
+					]
+				},
+				{
+					"word": "break",
+					"comment_inline": "/eɪ/",
+					"ipa": [
+						[ "bɹ", "e", "ɪk" ],
+						[ "bɹ(ʷ)", "e", "ɪ̯k" ]
+					]
+				},
+				{
+					"word": "say",
+					"comment_inline": "/eɪ/",
+					"ipa": [
+						[ "s", "e", "ɪ" ],
+						[ "s", "e", "ː" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "ə",
+			"words": [
+				{
+					"word": "arena",
+					"ipa": [
+						[ "", "ə", "ˈɹiːn", "ə" ],
+						[ "", "ə", "ˈɹiːnɐ" ]
+					]
+				},
+				{
+					"word": "comma",
+					"ipa": [
+						[ "ˈkɑ.m", "ə" ]
+					]
+				},
+				{
+					"word": "bazaar",
+					"ipa": [
+						[ "b", "ə", "ˈzɑɹ" ]
+					]
+				},
+				{
+					"word": "the",
+					"ipa": [
+						[ "ð", "ə" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "ʌ",
+			"words": [
+				{
+					"word": "gut",
+					"ipa": [
+						[ "ɡ", "ʌ", "t" ]
+					]
+				},
+				{
+					"word": "but",
+					"ipa": [
+						[ "b", "ʌ", "t" ]
+					]
+				},
+				{
+					"word": "trust",
+					"ipa": [
+						[ "tɹ", "ʌ", "st" ],
+						[ "t͡ʃʰɹ̥", "ʌ", "st" ]
+					]
+				},
+				{
+					"word": "under",
+					"ipa": [
+						[ "ˈ", "ʌ", "ndɚ" ],
+						[ "ˈ", "ʌ", "n(ɾ)ɚ" ],
+						[ "ˈ", "ʌ", "ɾ̃ɚ" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "ɔ",
+			"words": [
+				{
+					"word": "thought",
+					"ipa": [
+						[ "θ", "ɔ", "t" ]
+					]
+				},
+				{
+					"word": "frog",
+					"ipa": [
+						[ "fɹ", "ɔ", "ɡ" ]
+					]
+				},
+				{
+					"word": "bought",
+					"ipa": [
+						[ "b", "ɔ", "t" ]
+					]
+				},
+				{
+					"word": "launch",
+					"ipa": [
+						[ "l", "ɔ", "nt͡ʃ" ]
+					]
+				},
+				{
+					"word": "soil",
+					"comment_inline": "/ɔɪ/",
+					"ipa": [
+						[ "s", "ɔ", "ɪl" ]
+					]
+				},
+				{
+					"word": "boy",
+					"comment_inline": "/ɔɪ/",
+					"ipa": [
+						[ "b", "ɔ", "ɪ" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "o̞",
+			"words": [
+				{
+					"word": "Cambodia",
+					"comment_inline": "/oʊ/",
+					"ipa": [
+						[ "kʰɛəmˈb", "ö̞", "diə" ],
+						[ "kʰɛəmˈb", "ö̞", "ʊdiə" ]
+					]
+				},
+				{
+					"word": "boat",
+					"comment_inline": "/oʊ/",
+					"ipa": [
+						[ "b", "o", "ʊt" ]
+					]
+				},
+				{
+					"word": "owe",
+					"comment_inline": "/oʊ/",
+					"ipa": [
+						[ "", "o", "ʊ" ]
+					]
+				},
+				{
+					"word": "no",
+					"comment_inline": "/oʊ/",
+					"ipa": [
+						[ "n", "o", "ʊ" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "æ",
+			"words": [
+				{
+					"word": "cat",
+					"ipa": [
+						[ "k", "æ", "t" ],
+						[ "kʰ", "æ", "t" ],
+						[ "kʰ", "æ", "ʔ" ]
+					]
+				},
+				{
+					"word": "mad",
+					"ipa": [
+						[ "ˈm", "æ", "d" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "a",
+			"words": [
+				{
+					"word": "buy",
+					"comment_inline": "/aɪ/",
+					"ipa": [
+						[ "b", "a", "ɪ" ]
+					]
+				},
+				{
+					"word": "aisle",
+					"comment_inline": "/aɪ/",
+					"ipa": [
+						[ "", "a", "ɪ̯l" ]
+					]
+				},
+				{
+					"word": "isle",
+					"comment_inline": "/aɪ/",
+					"ipa": [
+						[ "", "a", "ɪ̯l" ]
+					]
+				},
+				{
+					"word": "cow",
+					"comment_inline": "/aʊ/",
+					"ipa": [
+						[ "k", "a", "ʊ" ]
+					]
+				},
+				{
+					"word": "mouth",
+					"comment_inline": "/aʊ/",
+					"ipa": [
+						[ "m", "a", "ʊθ" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "ä",
+			"words": [
+				{
+					"word": "bra",
+					"ipa": [
+						[ "bɹ", "ɐ̞", "ː" ],
+						[ "bɹ", "ɑ", "ː" ]
+					]
+				},
+				{
+					"word": "not",
+					"ipa": [
+						[ "n", "ɑ̈", "ʔ(t̚)" ]
+					]
+				},
+				{
+					"word": "father",
+					"ipa": [
+						[ "ˈf", "ɑ", "ðɚ" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "ɒ",
+			"words": [
+				{
+					"word": "thought",
+					"ipa": [
+						[ "θ", "ɒ", "t" ]
+					]
+				},
+				{
+					"word": "launch",
+					"ipa": [
+						[ "l", "ɒ", "nt͡ʃ" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "x",
+			"words": [
+				{
+					"word": "loch",
+					"ipa": [
+						[ "lɑ", "x" ]
+					]
+				},
+				{
+					"word": "challah",
+					"ipa": [
+						[ "ˈ", "x", "ɑ(ː).lə" ]
+					]
+				}
+			]
+		},
+		{
+			"key": "ʔ",
+			"words": [
+				{
+					"word": "uh-oh",
+					"ipa": [
+						[ "ˈʌ", "ʔ", "oʊ" ]
+					]
+				},
+				{
+					"word": "aa",
+					"ipa": [
+						[ "ˈɑ.", "ʔ", "ɑ" ]
+					]
+				}
+			]
+		}
+	]
+}

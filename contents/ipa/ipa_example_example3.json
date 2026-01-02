@@ -1,0 +1,24 @@
+{
+	"locale_abbreviation": "example3",
+	"locale": {"language":"example3","extlang":[],"script":"example3","region":"example3","variant":[],"extension":[],"private_use":null},
+	"data": [
+		{
+			"key": "p",
+			"words": [
+				{
+					"word": "word1",
+					"ipa": [
+						[ "exam", "ple3", "word", "1" ]
+					]
+				},
+				{
+					"word": "word2",
+					"comment_inline": "comment_inline",
+					"ipa": [
+						[ "exam", "ple3", "word", "2" ]
+					]
+				}
+			]
+		}
+	]
+}
